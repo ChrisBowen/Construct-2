@@ -1,5 +1,7 @@
 Samples and resources for Scirra's Construct 2, available at https://www.scirra.com/construct2
 
+Intro with screenshots from each template - http://blogs.msdn.com/b/cbowen/archive/2013/04/21/game-development-with-construct-2-templates-for-windows-8.aspx
+
 
 Game Templates for Windows 8
 ============================
